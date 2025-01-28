@@ -1,4 +1,6 @@
-package org.example.sandbox.hello.Algorithm;
+package org.example.sandbox.hello;
+
+import Algorithm.Algorithm;
 import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.*;
 
